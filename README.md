@@ -81,26 +81,41 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kshirsagar_prathmesh_0602) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamesh-kshirsagar-65812a217) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23169778) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/babu_viper) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Prathamesh06203) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Prathamesh06203&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh06203&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh06203&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prathamesh06203&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Prathamesh06203&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <h2>✍️ Random Dev Quote</h2>
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Prathamesh06203&limit=5&theme=radical&combine_all_yearly_contributions=true)
+<div align="center">
+  <h2>🔝 Top Contributed Repo</h2>
+  <br>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Prathamesh06203&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Prathamesh06203&icon=2&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <br/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Prathamesh06203&icon=2&color=0" />
+  </a>
+</div>
 
-  ## 💰 You can help me by Donating
+<div align="center">
+  <h2>💰 You can help me by Donating</h2>
+  <br>
+  <a href="https://buymeacoffee.com/Prathamesh_kshirsagar">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+  </a>
+</div>
+
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Prathamesh_kshirsagar) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
