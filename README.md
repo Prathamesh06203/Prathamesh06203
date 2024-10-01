@@ -1,5 +1,5 @@
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Prathamesh06203.Prathamesh06203" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GIF" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prathamesh+Kshirsagar!;" />
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
@@ -52,17 +52,15 @@
   <br/><br/><br/>
 </div>
 
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-<img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh06203&theme=react&border_radius=10" alt="streak stats"/>
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=Prathamesh06203&count_private=true&show_icons=true&theme=react&border_radius=10" alt="GitHub stats"/>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Prathamesh06203&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Prathamesh06203&count_private=true&show_icons=true&theme=react&border_radius=10" alt="GitHub stats"/>
   <br/>
-<img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh06203&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top languages"/>
-
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh06203&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top languages"/>
 </div>
 
 <br/><br/>
@@ -76,7 +74,6 @@
 </div>
 
 <br/>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kshirsagar_prathmesh_0602) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prathamesh-kshirsagar-65812a217) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23169778) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/babu_viper) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Prathamesh06203) 
@@ -115,7 +112,4 @@
   </a>
 </div>
 
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Prathamesh_kshirsagar) 
-
-  
-
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Prathamesh_kshirsagar)
